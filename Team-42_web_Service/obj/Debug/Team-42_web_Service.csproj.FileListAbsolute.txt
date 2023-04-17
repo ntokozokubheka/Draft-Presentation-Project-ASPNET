@@ -1,0 +1,7 @@
+C:\Users\carlton\Downloads\Team-42_web_Service\Team-42_web_Service\bin\Team-42_web_Service.dll.config
+C:\Users\carlton\Downloads\Team-42_web_Service\Team-42_web_Service\bin\Team-42_web_Service.dll
+C:\Users\carlton\Downloads\Team-42_web_Service\Team-42_web_Service\bin\Team-42_web_Service.pdb
+C:\Users\carlton\Downloads\Team-42_web_Service\Team-42_web_Service\obj\Debug\Team-42_web_Service.csproj.AssemblyReference.cache
+C:\Users\carlton\Downloads\Team-42_web_Service\Team-42_web_Service\obj\Debug\Team-42_web_Service.csproj.CoreCompileInputs.cache
+C:\Users\carlton\Downloads\Team-42_web_Service\Team-42_web_Service\obj\Debug\Team-42_web_Service.dll
+C:\Users\carlton\Downloads\Team-42_web_Service\Team-42_web_Service\obj\Debug\Team-42_web_Service.pdb
